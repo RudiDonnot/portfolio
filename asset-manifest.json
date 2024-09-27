@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/RudiDonnot/portfolio/static/css/main.834236d1.css",
+    "main.js": "/RudiDonnot/portfolio/static/js/main.e9471bf2.js",
+    "static/js/453.1407b060.chunk.js": "/RudiDonnot/portfolio/static/js/453.1407b060.chunk.js",
+    "static/media/projet8.webp": "/RudiDonnot/portfolio/static/media/projet8.8887035810cc0e2e9fe7.webp",
+    "static/media/projet9.webp": "/RudiDonnot/portfolio/static/media/projet9.390b77ce66ed6ae7ca3d.webp",
+    "static/media/Sans titre.jpg": "/RudiDonnot/portfolio/static/media/Sans titre.ce989e7398d2f2357d66.jpg",
+    "static/media/projet10.webp": "/RudiDonnot/portfolio/static/media/projet10.59b8ff093da44ba186d5.webp",
+    "static/media/projet11.webp": "/RudiDonnot/portfolio/static/media/projet11.228880f5bed40452c881.webp",
+    "static/media/projet3.webp": "/RudiDonnot/portfolio/static/media/projet3.4d609d1a63479c086243.webp",
+    "static/media/projet5.webp": "/RudiDonnot/portfolio/static/media/projet5.53600df4ec12a205291b.webp",
+    "static/media/projet7.webp": "/RudiDonnot/portfolio/static/media/projet7.f19d919cecbdbfa78b52.webp",
+    "static/media/projet4.webp": "/RudiDonnot/portfolio/static/media/projet4.04223376281339efc274.webp",
+    "static/media/projet2.webp": "/RudiDonnot/portfolio/static/media/projet2.e9171752351684448eb3.webp",
+    "static/media/projet6.webp": "/RudiDonnot/portfolio/static/media/projet6.9491e38d22871bb8f2a6.webp",
+    "index.html": "/RudiDonnot/portfolio/index.html",
+    "main.834236d1.css.map": "/RudiDonnot/portfolio/static/css/main.834236d1.css.map",
+    "main.e9471bf2.js.map": "/RudiDonnot/portfolio/static/js/main.e9471bf2.js.map",
+    "453.1407b060.chunk.js.map": "/RudiDonnot/portfolio/static/js/453.1407b060.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.834236d1.css",
+    "static/js/main.e9471bf2.js"
+  ]
+}
